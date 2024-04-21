@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "fitfusion---exercise-app-",
+    "slug": "snack-61f7d924-2167-4faa-b724-0df86d505103",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.testuser.fitfusion"
+    },
+    "android": {
+      "package": "com.testuser.fitfusion"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eae6b08d-79cd-45e7-acb9-4b260ffe97d6"
+      }
+    }
+  }
+}
